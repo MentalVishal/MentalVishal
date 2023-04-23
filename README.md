@@ -1,3 +1,6 @@
+![logo](https://github.com/MentalVishal/MentalVishal/blob/main/Banner.jpg)
+
+
 ### Hi there 👋
 
 <!--
