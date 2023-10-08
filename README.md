@@ -1,5 +1,6 @@
-![logo](https://github.com/MentalVishal/MentalVishal/blob/main/Banner.jpg)
 
+
+![Banner](https://github.com/MentalVishal/MentalVishal/assets/115460369/06d359d7-29ec-43b3-8482-bad4179ecd05)
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">As a full-stack web developer, I strive to create user-friendly solutions that meet the user's needs.</h3>
